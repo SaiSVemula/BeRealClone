@@ -1,0 +1,68 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+package-lock.json
+yarn.lock
+
+# Metro bundler cache
+metro-cache/
+
+# Logs
+*.log
+*.log.*
+logs/
+debug.log
+error.log
+npm-debug.log
+
+# React Native specific
+.expo/
+.expo-shared/
+android/app/debug.keystore
+android/.gradle/
+android/app/build/
+android/build/
+ios/Pods/
+ios/build/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.production
+.env.development
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Babel cache
+.babelrc
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Generated files
+*.lock
+*.swp
+*.swo
+*.swn
+
+# Images and uploaded media
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+
+# Expo specific
+.cache/
